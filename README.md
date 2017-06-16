@@ -1,0 +1,2 @@
+# liderarte
+Marco conceptual
